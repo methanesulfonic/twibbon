@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Twibbon Microprocessor dan Microcontroller</title>
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
     </script>
     <script src = "https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js">
@@ -13,7 +13,7 @@
   <body>
     Jenis Twibbon
     <select id = "twibbonimg">
-      <option value="img/melekteknologi.png">Microprocessor dan Microcontroller</option>
+      <option value="melekteknologi.png">Microprocessor dan Microcontroller</option>
     </select>
     Photo <input type="file" id="photoimg" value=""> <br>
     Lebar <input type="range" id="width" value="450" min="0" max="900" step="1">
